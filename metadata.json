@@ -1,0 +1,8 @@
+{
+  "name": "DiaMetric",
+  "description": "Clinical Decision Support System for Type 2 Diabetes Mellitus Risk Prediction, Glycemic Phenotyping, and Multi-Classifier Machine Learning Analysis.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
